@@ -1,6 +1,6 @@
 """
 Baxolash funksiyasi
-github:https://github.com/sodiqoydinov
+github:sodiqoydinov
 """
 def bahola(ismlar):
     baholar={}
