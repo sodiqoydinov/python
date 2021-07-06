@@ -1,6 +1,6 @@
 
 """
-github:sodiqoydinov
+github:https://github.com/sodiqoydinov
 Ushbu funksiyada rekursiyadan foydalanilgan bo'lib faktarialni hisoblaydi'
 """
 def fact(x):
@@ -9,3 +9,4 @@ def fact(x):
     else:
         return x*fact(x-1)
 #print(fact(x)) <<<bunda x ning o'rniga faktarialini topmoqchi bo'lgan sonni qo'yamiz 
+
