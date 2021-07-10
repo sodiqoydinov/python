@@ -37,3 +37,4 @@ class Talaba(Shaxs):
 shaxs1=Shaxs('Sodiq','Oydinov','None',2005)
 shaxs2=Shaxs('Mariyam','Turaqurulova','IO998101',1982)
 #talaba1=Talaba('Sodiq','Oydinov','',2005,'')
+
